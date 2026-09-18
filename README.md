@@ -287,7 +287,7 @@ Donations support a separate, unreleased project I am building, aimed at
 Bitcoin. This tool stays free. Nothing here is an investment offer and no return
 of any kind is implied.
 
-[<img src="assets/donate.svg" alt="Donate Bitcoin — 1Be6LLAEndprdWKiH6YM62setFQRXJzfha" width="440">](https://mempool.space/address/1Be6LLAEndprdWKiH6YM62setFQRXJzfha)
+<img src="assets/donate.svg" alt="Donate Bitcoin — 1Be6LLAEndprdWKiH6YM62setFQRXJzfha" width="440">
 
 `1Be6LLAEndprdWKiH6YM62setFQRXJzfha` — mainnet P2PKH. **Verify before sending:**
 open an issue and ask me to confirm the address, and check the first and last
